@@ -8,11 +8,11 @@ const Navbar = () => {
             <li>
                 <Link className='font-semibold text-2xl text-white' href="/om_meg">om meg</Link>
             </li>
-            <span> | </span>
+            <span className='text-white'> | </span>
             <li>
                 <Link className='font-semibold text-2xl text-white' href="/">Hjem</Link>
             </li>
-            <span> | </span>
+            <span className='text-white'> | </span>
             <li>
                 <Link className='font-semibold text-2xl text-white' href="/prosjekter">prosjekter</Link>
             </li>
