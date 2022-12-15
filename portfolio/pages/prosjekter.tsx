@@ -14,6 +14,12 @@ const prosjekter = () => {
             <br />
             <center><h1 className='text-2xl font-semibold text-white'>{content.no.prosjekter[3]}</h1></center>
             <center><button className='text-white px-6 py-2 bg-cyan-500 rounded-xl'><Link href={"/django"}>{content.no.prosjekter[4]}</Link></button></center>
+            <br />
+            <center><h1 className='text-2xl font-semibold text-white'>{content.no.prosjekter[5]}</h1></center>
+            <center><button className='text-white px-6 py-2 bg-cyan-500 rounded-xl'><Link href={"/maya"}>{content.no.prosjekter[6]}</Link></button></center>
+            <br />
+            <center><h1 className='text-2xl font-semibold text-white'>{content.no.prosjekter[7]}</h1></center>
+            <center><button className='text-white px-6 py-2 bg-cyan-500 rounded-xl'><Link href={"/python"}>{content.no.prosjekter[8]}</Link></button></center>
         </div>
     )
 }
