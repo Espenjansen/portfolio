@@ -17,7 +17,15 @@ export default{
             "Under ser du et bilde av ui-en i på nettsiden som er lagd av Patrick Jøssang",
             "Bilde av ui-en"],
 
-        django:["Dette er mitt Django prosjekt", "Dette prosjektet mitt er en handleliste/todo-liste.", " Den er lagd i Django og jeg bruker flere tables for å lagre brukere og for å lagre todo listene til en bruker og alle tingene den brukeren har skrevet."],
+        django:["Dette er mitt Django prosjekt", 
+            "Dette prosjektet mitt er en handleliste/todo-liste.", 
+            "Den er lagd i Django og jeg bruker flere tables for å lagre brukere og for å lagre todo listene til en bruker og alle tingene den brukeren har skrevet.",
+            "Side for å lage nye lister,",
+            "Side som viser listene dine",
+            "Side for å legge ting til i listene dine.",
+            "Login side",
+            "Registrerings side",
+            ],
 
         navbar:["Hjem", "Prosjekter", "Om meg", "Kontakt meg"],
 
